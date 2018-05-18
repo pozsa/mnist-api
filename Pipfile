@@ -5,6 +5,10 @@ name = "pypi"
 
 [packages]
 flask = "*"
+gunicorn = "*"
+keras = "*"
+numpy = "*"
+pillow = "*"
 
 [dev-packages]
 pylint = "*"
