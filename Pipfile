@@ -9,6 +9,7 @@ gunicorn = "*"
 keras = "*"
 numpy = "*"
 pillow = "*"
+tensorflow = "*"
 
 [dev-packages]
 pylint = "*"
